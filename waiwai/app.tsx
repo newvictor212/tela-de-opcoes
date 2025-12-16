@@ -19,13 +19,13 @@ export default function App() {
         resizeMode="contain"
       />
 
-      {/* Título */}
+      {/* aplicativo */}
       <Text style={styles.title}>DuWaiWai</Text>
 
       {/* Subtítulo */}
       <Text style={styles.subtitle}>Menekâki Cewne aniriri</Text>
 
-      {/* Botões */}
+      {/* Botões de dificuldade */}
       <TouchableOpacity style={styles.button}>
         <Text style={styles.buttonText}>Camkira</Text>
       </TouchableOpacity>
