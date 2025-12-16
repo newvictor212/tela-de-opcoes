@@ -25,7 +25,7 @@ export default function App() {
       {/* Subtítulo */}
       <Text style={styles.subtitle}>Menekâki Cewne aniriri</Text>
 
-      {/* Botões de dificuldade */}
+      {/* Botões de niveis de dificuldade */}
       <TouchableOpacity style={styles.button}>
         <Text style={styles.buttonText}>Camkira</Text>
       </TouchableOpacity>
