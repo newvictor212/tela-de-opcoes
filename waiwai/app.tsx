@@ -14,7 +14,7 @@ export default function App() {
 
       {/* Logo */}
       <Image
-        source={require('./assets/logo.png')}
+        source={require('./assets/logo.jpg')}
         style={styles.logo}
         resizeMode="contain"
       />
